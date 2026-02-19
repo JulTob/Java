@@ -1,2 +1,2 @@
 # Java
-Java the Hut
+Check the Wiki!
