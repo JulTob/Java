@@ -26,7 +26,7 @@ class Experimento{
   +Date fecha
 
   +entrena(Training_Data, Modelo_Usado) void
-  -BLOB status
+  -struct status
 
   +Float accuracy
   +ComputeAccuracy() Float
